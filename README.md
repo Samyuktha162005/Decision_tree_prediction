@@ -15,7 +15,7 @@ pandas
 
 🛠️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/decision-tree-prediction.git
+git clone https://github.com/Samyuktha162005/decision-tree-prediction.git
 cd decision-tree-prediction
 
 3. Install dependencies
